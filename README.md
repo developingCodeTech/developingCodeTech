@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 <hr>
-<img  align =" center " src ="https://metrics.lecoq.io/developingCodeTech " alt =" Métricas " width =" 400 ">
+<img  align =" center " src ="https://metrics.lecoq.io/developingCodeTech" alt =" Métricas " width =" 400 ">
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
