@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 <hr>
-markdown![Metrics](https://metrics.lecoq.io/developingCodeTech)
+   markdown![Metrics](https://metrics.lecoq.io/developingCodeTech)
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
