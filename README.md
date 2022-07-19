@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **developing.code.tech@gmail.com**
 
-- ⚡ our team is formed by **@flipgamership @scr-simon and alejandro**
+- ⚡ our team is formed by alejandro**
 <hr>
 <h3 align="left">Connect with me: developing.code.tech@gmail.com and +57 3022835914</h3>
 <p align="left">
